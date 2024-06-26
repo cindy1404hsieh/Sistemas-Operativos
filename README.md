@@ -93,3 +93,9 @@
   - Variables
   - Estructuras de Control
   - Expresiones regulares
+## Trabajos Practicos
+se realizaron 1 Lab individual y 3 Tps grupales
+### Lab: fork
+### TP1: Shell
+### TP1: Scheduling
+### TP1: FileSystem
